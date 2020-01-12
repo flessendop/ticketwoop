@@ -1,6 +1,6 @@
 # Whalecum
 
-This tool is made to get your tickets faster then other people because **you** are way more important then other people who are looking for tickets just as hard as you.
+This tool is made to get your tickets faster then other people because **you** are way more important then other people who are looking for tickets just as hard as you. #superego
 
 ## Setup
 

@@ -13,7 +13,7 @@ Set your config file `cypress.json`
   "projectId": "7mk3we",
   "chromeWebSecurity": false,
   "env": {
-    "fuckID": "", // String that contains the ticketswap ID to get your tickets
+    "fuckID": "", // String that contains the ticketstuff ID to get your tickets
     "myCookieString": "" // The string containing all your cookies while logged in
   }
 }
